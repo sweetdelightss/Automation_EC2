@@ -1,4 +1,4 @@
-# Create EC2 instance using Python BOTO3 with two volumes and two users
+# Create EC2 instance using Python BOTO3 with two users
 import boto3
 
 
